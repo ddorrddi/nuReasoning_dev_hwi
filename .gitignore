@@ -1,0 +1,15 @@
+*.png
+*.pt
+*.jpg
+*.json
+*.jsonl
+*.log
+*.npy
+*.txt
+/debug
+/outputs
+/nureasoning-devkit/outputs
+*.yml
+*.yaml
+*.bak
+*.pre_qlora
